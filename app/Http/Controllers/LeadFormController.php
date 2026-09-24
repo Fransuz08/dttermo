@@ -12,6 +12,7 @@ class LeadFormController extends Controller
     public function submit(Request $request)
     {
         $validated = $request->validate([
+        $validated = $request->validate([
             'name'    => ['required', 'string', 'min:2', 'max:100'],
             'phone'   => ['required', 'string', 'max:30'],
             'email'   => ['nullable', 'email', 'max:150'],

@@ -20,7 +20,7 @@
                 <div class="hero-panel-title">DT Termo Group в цифрах</div>
                 <div class="hero-stat-grid">
                     <div class="hero-stat"><b data-count-to="25" data-suffix="+">0</b><span>лет на рынке ОВК и ВК</span></div>
-                    <div class="hero-stat"><b data-count-to="5000" data-suffix=" м²">0</b><span>собственный склад в г. Лобня</span></div>
+                    <div class="hero-stat"><b data-count-to="5000" data-suffix=" м²">0</b><span>склад в г. Лобня</span></div>
                     <div class="hero-stat"><b data-count-to="2005" data-suffix="">0</b><span>год вступления в НП «АВОК»</span></div>
                     <div class="hero-stat"><b data-count-to="5" data-suffix="">0</b><span>ключевых направлений поставки</span></div>
                 </div>
@@ -45,7 +45,7 @@
                 <div class="eyebrow">О компании</div>
                 <h2 id="about-title">Лидер на российском рынке комплексных поставок инженерных систем</h2>
                 <p>DT Termo Group — это компания, которая с 2001 года анализирует рынок и модернизирует внутренние процессы, чтобы предложить клиентам широкую линейку качественного оборудования и материалов для систем ОВК и ВК в разной ценовой категории.</p>
-                <p>Собственные складские площади и отлаженная система управления поставками позволяют поддерживать широкий номенклатурный ряд продукции и гарантировать своевременную доставку.</p>
+                <p>Складские площади и отлаженная система управления поставками позволяют поддерживать широкий номенклатурный ряд продукции и гарантировать своевременную доставку.</p>
                 <ul class="about-list">
                     <li>
                         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M4 10.5L8 14.5L16 5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
@@ -161,11 +161,11 @@
                     </div>
                 </article>
                 <article class="category-card">
-                    <img src="{{ asset('img/index-wc.jpg') }}" alt="Оборудование систем водоснабжения" width="600" height="510" loading="lazy" decoding="async">
+                    <img src="{{ asset('img/COD.png') }}" alt="Оборудование систем водоснабжения" width="600" height="510" loading="lazy" decoding="async">
                     <div class="category-body">
                         <span class="tag">Направление 05</span>
-                        <h3>Водоснабжение</h3>
-                        <p>Комплекс решений для холодного и горячего водоснабжения зданий и производственных объектов.</p>
+                        <h3>ЦОД</h3>
+                        <p>Комплекс решений для холодильных машин, холодных стен, адиабатических вентиляционных установок.</p>
                         <a href="{{ route('catalog') }}#water" class="category-link">Подробнее →</a>
                     </div>
                 </article>
@@ -261,7 +261,7 @@
                 <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
                     <button class="faq-q" aria-expanded="false" itemprop="name">Есть ли оборудование в наличии на складе?<span class="plus" aria-hidden="true"></span></button>
                     <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                        <div class="faq-a-inner"><p itemprop="text">Да, собственный склад в г. Лобня площадью 5000 м² позволяет поддерживать постоянный запас ходовых позиций и оперативно отгружать заказы.</p></div>
+                        <div class="faq-a-inner"><p itemprop="text">Да, склад в г. Лобня площадью 5000 м² позволяет поддерживать постоянный запас ходовых позиций и оперативно отгружать заказы.</p></div>
                     </div>
                 </div>
                 <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">

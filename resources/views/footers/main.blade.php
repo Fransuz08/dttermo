@@ -30,7 +30,7 @@
                     <li><a href="{{ route('catalog') }}#ventilation">Вентиляция</a></li>
                     <li><a href="{{ route('catalog') }}#ac">Кондиционирование</a></li>
                     <li><a href="{{ route('catalog') }}#clean">Чистые помещения</a></li>
-                    <li><a href="{{ route('catalog') }}#water">Водоснабжение</a></li>
+                    <li><a href="{{ route('catalog') }}#water">ЦОД</a></li>
                 </ul>
             </div>
             <div class="footer-col">

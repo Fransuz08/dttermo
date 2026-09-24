@@ -73,12 +73,12 @@
     <section class="section" aria-labelledby="heading-water" id="water">
         <div class="container about-split">
             <div class="about-media">
-                <img src="{{ asset('img/index-wc.jpg') }}" alt="Оборудование систем водоснабжения" width="800" height="620" loading="lazy" decoding="async">
+                <img src="{{ asset('img/COD.png') }}" alt="Оборудование систем водоснабжения" width="800" height="620" loading="lazy" decoding="async">
             </div>
             <div>
                 <span class="hero-badge" style="background:var(--c-green-light); color:var(--c-green-dark); border-color:transparent;">Направление 05</span>
-                <h2 id="heading-water" style="margin-top:.6em;">Водоснабжение</h2>
-                <p>Комплекс решений для холодного и горячего водоснабжения: насосное оборудование, трубопроводная арматура, системы очистки и подготовки воды.</p>
+                <h2 id="heading-water" style="margin-top:.6em;">ЦОД</h2>
+                <p>Комплекс решений для холодильных машин, холодных стен, прецизионных кондиционеров, адиабатических вентиляционных установок.</p>
                 <p>Поставляем оборудование как для жилых и коммерческих объектов, так и для промышленных предприятий.</p>
                 <a href="{{ route('contacts') }}" class="btn btn-dark">Запросить подбор оборудования</a>
             </div>

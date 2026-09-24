@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DT Termo Group — поставки оборудования и материалов ОВК и ВК</title>
-    <meta name="description" content="DT Termo Group — поставщик оборудования и материалов для систем отопления, вентиляции, кондиционирования и водоснабжения с 2001 года. Собственный склад 5000 м², подбор, доставка, сервис.">
+    <meta name="description" content="DT Termo Group — поставщик оборудования и материалов для систем отопления, вентиляции, кондиционирования и водоснабжения с 2001 года. Склад 5000 м², подбор, доставка, сервис.">
     <link rel="canonical" href="https://www.dttermo.ru/">
 
     <meta property="og:type" content="website">
