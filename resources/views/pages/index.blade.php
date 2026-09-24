@@ -237,7 +237,9 @@
                         </div>
                     </article>
                 @endforeach
-                <a href="{{ route('news.allNews') }}" class="read-more" style="font-weight:700; font-size:.88rem; color:var(--c-green-dark);">Читать далее →</a>
+            </div>
+            <div style="padding-top: 30px">
+                <a href="{{ route('news.allNews') }}" class="read-more" style="font-weight:700; font-size:.88rem; color:var(--c-green-dark);">Перейти к новостям →</a>
             </div>
         </div>
     </section>

@@ -23,11 +23,11 @@
                     </div>
                     <div class="contact-info-item">
                         <span class="ico" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M4 5h4l2 5-2.5 1.5a12 12 0 006 6L15 15l5 2v4a2 2 0 01-2 2C9 23 1 15 1 6a2 2 0 012-1z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg></span>
-                        <div><b>Телефоны</b><a href="tel:+74957772399">+7 (495) 777-23-99</a><br><a href="tel:+79856906915">+7 (985) 690-69-15</a></div>
+                        <div><b>Телефон</b><a href="tel:+74957772399">+7 (495) 777-23-99</a></div>
                     </div>
                     <div class="contact-info-item">
                         <span class="ico" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><rect x="3" y="5" width="18" height="14" rx="2" stroke="currentColor" stroke-width="1.6"/><path d="M4 7l8 6 8-6" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg></span>
-                        <div><b>Email</b><a href="mailto:info@dttermo.ru">info@dttermo.ru</a></div>
+                        <div><b>Email</b><a href="mailto:info@dt-termo.ru">info@dt-termo.ru</a></div>
                     </div>
                     <div class="contact-info-item">
                         <span class="ico" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"/><path d="M12 7v5l3.5 2" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></span>

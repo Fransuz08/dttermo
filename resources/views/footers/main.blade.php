@@ -38,8 +38,8 @@
                 <ul>
                     <li>107023, Москва, Медовый переулок, д. 5, стр. 1</li>
                     <li><a href="tel:+74957772399">+7 (495) 777-23-99</a></li>
-                    <li><a href="tel:+79856906915">+7 (985) 690-69-15</a></li>
-                    <li><a href="mailto:info@dttermo.ru">info@dttermo.ru</a></li>
+{{--                    <li><a href="tel:+79856906915">+7 (985) 690-69-15</a></li>--}}
+                    <li><a href="mailto:info@dt-termo.ru">info@dt-termo.ru</a></li>
                 </ul>
             </div>
         </div>

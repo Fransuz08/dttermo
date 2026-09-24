@@ -27,7 +27,7 @@ class LeadFormController extends Controller
         ]);
 
         try {
-            $adminEmail = 'dmitry.samsonov@dt-termo.ru';
+            $adminEmail = 'info@dt-termo.ru';
 
             Mail::to($adminEmail)
                 ->send(new LeadFormMail($validated));
